@@ -12,6 +12,8 @@ I'm a backend developer with a strong foundation in JavaScript, Node.js, Express
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat&logo=sequelize)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![MongoDb](https://img.shields.io/badge/-Mongodb-black?style=flat&logo=mongodb).
+
 <!---
 Hiten-codes/Hiten-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
